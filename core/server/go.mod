@@ -25,10 +25,14 @@ replace github.com/sagernet/sing-dns => github.com/Mahdi-zarei/sing-dns v0.3.0-b
 
 require (
 	github.com/ajg/form v1.5.1 // indirect
+	github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751 // indirect
+	github.com/alecthomas/units v0.0.0-20210208195552-ff826a37aa15 // indirect
 	github.com/andybalholm/brotli v1.0.6 // indirect
 	github.com/caddyserver/certmagic v0.20.0 // indirect
+	github.com/chelnak/ysmrr v0.5.0 // indirect
 	github.com/cloudflare/circl v1.3.7 // indirect
 	github.com/cretz/bine v0.2.0 // indirect
+	github.com/fatih/color v1.18.0 // indirect
 	github.com/fsnotify/fsnotify v1.7.0 // indirect
 	github.com/go-chi/chi/v5 v5.2.1 // indirect
 	github.com/go-chi/render v1.0.3 // indirect
@@ -49,6 +53,8 @@ require (
 	github.com/libdns/cloudflare v0.1.1 // indirect
 	github.com/libdns/libdns v0.2.2 // indirect
 	github.com/logrusorgru/aurora v2.0.3+incompatible // indirect
+	github.com/mattn/go-colorable v0.1.13 // indirect
+	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/mdlayher/netlink v1.7.2 // indirect
 	github.com/mdlayher/socket v0.5.1 // indirect
 	github.com/metacubex/tfo-go v0.0.0-20241231083714-66613d49c422 // indirect
@@ -77,6 +83,7 @@ require (
 	github.com/sagernet/utls v1.6.7 // indirect
 	github.com/sagernet/wireguard-go v0.0.1-beta.5 // indirect
 	github.com/sagernet/ws v0.0.0-20231204124109-acfe8907c854 // indirect
+	github.com/showwin/speedtest-go v1.7.10 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/u-root/uio v0.0.0-20230220225925-ffce2a382923 // indirect
 	github.com/vishvananda/netns v0.0.4 // indirect
@@ -89,10 +96,12 @@ require (
 	golang.org/x/mod v0.22.0 // indirect
 	golang.org/x/net v0.34.0 // indirect
 	golang.org/x/sync v0.10.0 // indirect
+	golang.org/x/term v0.28.0 // indirect
 	golang.org/x/text v0.21.0 // indirect
 	golang.org/x/time v0.7.0 // indirect
 	golang.org/x/tools v0.28.0 // indirect
 	golang.zx2c4.com/wintun v0.0.0-20230126152724-0fa3db229ce2 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240814211410-ddb44dafa142 // indirect
+	gopkg.in/alecthomas/kingpin.v2 v2.2.6 // indirect
 	lukechampine.com/blake3 v1.3.0 // indirect
 )
